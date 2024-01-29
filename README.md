@@ -3,7 +3,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YangJinHyeok&theme=tokyonight&show_icons=true" width="42%" />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjh777)](https://solved.ac/백준아이디/)
 
-<code><img alt = "C++" height="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/cplusplus_logo_icon_145376.png"> C++</code>
+Language
+<code><img alt = "C++" height="20" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/cplusplus_logo_icon_145376.png"> C++</code>
 
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
