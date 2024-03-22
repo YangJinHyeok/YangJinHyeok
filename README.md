@@ -40,6 +40,7 @@ HUFS University - Computer Science and Engineering
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjh777)](https://solved.ac/백준아이디/)
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangJinHyeok&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 
 <br><br>
@@ -50,6 +51,7 @@ HUFS University - Computer Science and Engineering
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=YangJinHyeok&theme=tokyonight&show_icons=true" width="42%" /><br>
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangJinHyeok&theme=tokyonight)](https://git.io/streak-stats)
 
 
