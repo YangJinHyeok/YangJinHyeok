@@ -1,6 +1,7 @@
 # ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
-# 🎓 Education 🎓
+<div align="center">
+<h2> 🎓 Education 🎓 </h2>
 
 [2024.03 ~]
 Shinhan Securities ProDigitalAcademy
@@ -8,25 +9,43 @@ Shinhan Securities ProDigitalAcademy
 [2022.03 ~ 2024.02]
 HUFS University - Computer Science and Engineering
 
+</div>
+
 <br><br>
 
-# 🌱 Tech Stack 🌱
-![C++](https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+<div align="center">
+  <h2> 🌱 Tech Stack 🌱 </h2>
+  <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+</div>
 
-# 👨🏻‍💻 Study 👨🏻‍💻
+<br><br>
 
-[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=yjh777)](https://solved.ac/yjh777/)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YangJinHyeok&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight)
+<div align="center">
+  <h2> 👨🏻‍💻 Study 👨🏻‍💻 </h2>
+</div>
 
-# 💻 GitHub 💻
+<div align="center">
+<a href="https://solved.ac/yjh777/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjh777"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangJinHyeok&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight">
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YangJinHyeok&theme=tokyonight&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangJinHyeok&theme=tokyonight)](https://git.io/streak-stats)
+<br><br>
 
-![Profile Contribution](./profile-3d-contrib/profile-gitblock.svg)
+<div align="center">
+  <h2> 💻 GitHub 💻 </h2>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YangJinHyeok&theme=tokyonight&show_icons=true">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YangJinHyeok&theme=tokyonight"></a>
+</div>
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-gitblock.svg">
+</div>
