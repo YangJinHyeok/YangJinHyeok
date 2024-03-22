@@ -1,5 +1,6 @@
+
 <div style="text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70" style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=🌊JinHyeok&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45" style="width: 100%;">
 </div>
 
 <div align="center">
