@@ -36,6 +36,7 @@ HUFS University - Computer Science and Engineering
   <h2> 👨🏻‍💻 Study 👨🏻‍💻 </h2>
   
 </div>
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjh777)](https://solved.ac/백준아이디/)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangJinHyeok&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
