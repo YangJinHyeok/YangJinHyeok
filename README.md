@@ -1,4 +1,6 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+<div style="text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70" style="width: 100%;">
+</div>
 
 <div align="center">
 <h2> 🎓 Education 🎓 </h2>
