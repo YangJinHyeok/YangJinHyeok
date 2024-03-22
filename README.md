@@ -50,7 +50,6 @@ HUFS University - Computer Science and Engineering
 <img src="https://github-readme-stats.vercel.app/api?username=YangJinHyeok&theme=tokyonight&show_icons=true" width="42%" /><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangJinHyeok&theme=tokyonight)](https://git.io/streak-stats)
 
-<br>
 
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
