@@ -6,6 +6,8 @@
 [2024.03 ~]
 Shinhan Securities ProDigitalAcademy
 
+<br>
+
 [2022.03 ~ 2024.02]
 HUFS University - Computer Science and Engineering
 
