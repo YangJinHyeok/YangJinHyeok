@@ -31,11 +31,24 @@ HUFS University - Computer Science and Engineering
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   
 </div>
+<br><br>
+<div align="center">
+  <h2> 👨🏻‍💻 Study 👨🏻‍💻 </h2>
+  
+</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjh777)](https://solved.ac/백준아이디/)
-<img src="https://github-readme-stats.vercel.app/api?username=YangJinHyeok&theme=tokyonight&show_icons=true" width="42%" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangJinHyeok&theme=tokyonight)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangJinHyeok&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+
+<br><br>
+
+<div align="center">
+  <h2> 💻 GitHub 💻 </h2>
+
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YangJinHyeok&theme=tokyonight&show_icons=true" width="42%" /><br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangJinHyeok&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
