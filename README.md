@@ -4,6 +4,12 @@
 </div>
 
 <div align="center">
+
+<h2> 👋 Introdution 👋 </h2>
+"파도"처럼 유연하고 막힘없이 성장하고 싶은 개발자 양진혁입니다.
+<br><br>
+
+
 <h2> 🎓 Education 🎓 </h2>
 
 [2024.03 ~]
