@@ -5,6 +5,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangJinHyeok&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 
 <div align="center">
+## 🎤 About me
+
+- 🤫 I want to be a developer who grows day by day and has reliability.
+- 💻 Interested in **Financial full stack development**
+- 🎓 KHU Industrial management Engineering & Computer Engineering
+- 🖥 Major Projects : <a href="https://github.com/kkh0331/Library_Detection">📓 Library_Detection</a>
+- 🪪 Certificate : 정보처리기사, SQLD, ADsP
+<div>
+
+
+<div align="center">
   <h2> 🌱 Tech Stack 🌱 </h2>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
