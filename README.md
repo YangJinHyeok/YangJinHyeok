@@ -36,8 +36,7 @@ HUFS University - Computer Science and Engineering
   <h2> 👨🏻‍💻 Study 👨🏻‍💻 </h2>
 </div>
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=yjh777)](https://solved.ac/yjh777/)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjh777)](https://solved.ac/yjh777/)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangJinHyeok&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 
 <br><br>
@@ -48,6 +47,7 @@ HUFS University - Computer Science and Engineering
 </div>
 
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=YangJinHyeok&theme=tokyonight&show_icons=true" width="42%" /><br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangJinHyeok&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
