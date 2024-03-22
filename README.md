@@ -7,11 +7,11 @@
 <div align="center">
 ## 🎤 About me
 
-- 🤫 I want to be a developer who grows day by day and has reliability.
-- 💻 Interested in **Financial full stack development**
-- 🎓 KHU Industrial management Engineering & Computer Engineering
-- 🖥 Major Projects : <a href="https://github.com/kkh0331/Library_Detection">📓 Library_Detection</a>
-- 🪪 Certificate : 정보처리기사, SQLD, ADsP
+🤫 I want to be a developer who grows day by day and has reliability.
+💻 Interested in **Financial full stack development**
+🎓 KHU Industrial management Engineering & Computer Engineering
+🖥 Major Projects : <a href="https://github.com/kkh0331/Library_Detection">📓 Library_Detection</a>
+🪪 Certificate : 정보처리기사, SQLD, ADsP
 <div>
 
 
