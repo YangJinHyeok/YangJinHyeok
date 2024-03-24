@@ -13,7 +13,7 @@
 <h2> 🎓 Education 🎓 </h2>
 
 [2024.03 ~]
-Shinhan Securities ProDigitalAcademy
+Shinhan Securities Pro Digital Academy
 <br><br>
 [2022.03 ~ 2024.02]
 HUFS University - Computer Science and Engineering
