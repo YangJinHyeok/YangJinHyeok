@@ -9,8 +9,9 @@
   파도처럼 "유연"하고 "막힘"없이 성장하고 싶은 개발자 양진혁입니다.
   <br><br>
   
-  
+  <div style="margin: auto; width: fit-content;">
   <h2> 🎓 Education 🎓 </h2>
+  
   <table>
     <tr>
       <th>Period</th>
@@ -25,7 +26,7 @@
       <td>HUFS University Computer Science and Engineering</td>
     </tr>
   </table>
-
+  </div>
 </div>
 
 <br><br>
