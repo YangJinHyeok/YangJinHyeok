@@ -11,7 +11,7 @@
   
   <div style="margin: auto; width: fit-content;">
   <h2> 🎓 Education 🎓 </h2>
-  
+  <br>
   <table>
     <tr>
       <th>Period</th>
