@@ -1,7 +1,5 @@
 
-<div style="text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=🌊JinHyeok&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45" style="width: 100%;">
-</div>
+<img id="dynamicImage" src="https://capsule-render.vercel.app/api?type=waving&height=160&text=🌊JinHyeok&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45">
 
 <div align="center">
 
@@ -12,14 +10,22 @@
 
 <h2> 🎓 Education 🎓 </h2>
 
-[2024.03 ~]
-Shinhan Securities Pro Digital Academy
-<br><br>
-[2022.03 ~ 2024.02]
-HUFS University - Computer Science and Engineering
+<table>
+  <tr>
+    <th>Period</th>
+    <th>Institution</th>
+  </tr>
+  <tr>
+    <td>2024.03 - Present</td>
+    <td>Shinhan Securities Pro Digital Academy</td>
+  </tr>
+  <tr>
+    <td>2022.03 - 2024.02</td>
+    <td>HUFS University Computer Science and Engineering</td>
+  </tr>
+</table>
 
 </div>
-
 <br><br>
 
 <div align="center">
