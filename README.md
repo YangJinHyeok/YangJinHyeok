@@ -6,7 +6,7 @@
 <div align="center">
 
   <h2> 👋 Introdution 👋 </h2>
-  파도처럼 "막힘"없이 "유연"하게 성장하고 싶은 개발자 양진혁입니다.
+  양진혁입니다.
   <br><br>
   
   <div style="margin: auto; width: fit-content;">
