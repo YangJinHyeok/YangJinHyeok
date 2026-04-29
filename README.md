@@ -14,15 +14,12 @@
   <br>
   <table>
     <tr>
-      <th>Period</th>
       <th>Institution</th>
     </tr>
     <tr>
-      <td>2024.03 - Present</td>
       <td>Shinhan Securities Pro Digital Academy</td>
     </tr>
     <tr>
-      <td>2022.03 - 2024.02</td>
       <td>HUFS University Computer Science and Engineering</td>
     </tr>
   </table>
