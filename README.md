@@ -47,7 +47,9 @@
 
 <div align="center">
 <a href="https://solved.ac/yjh777/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjh777"></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangJinHyeok&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YangJinHyeok&theme=radical"
+/>
 </div>
 
 <br><br>
@@ -57,8 +59,8 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YangJinHyeok&theme=tokyonight&show_icons=true">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YangJinHyeok&theme=tokyonight"></a>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YangJinHyeok&show_icons=true&theme=radical">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YangJinHyeok&theme=tokyonight">
 </div>
 
 <div align="center">
